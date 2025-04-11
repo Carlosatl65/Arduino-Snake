@@ -1,4 +1,4 @@
-<h1>IT-SNAKE con Pantalla de Puntajes LCD</h1>
+<h1>🐍 IT-SNAKE con Pantalla de Puntajes LCD 🐍</h1>
 <p>Este proyecto esta enfocado en el aprendizaje de programación e integración de modúlos gracias a la tecnología Arduino. El proyecto completo consta de los siguientes modulos:</p>
 <ul>
 <li>Arduino Uno (Controlador)</li>
